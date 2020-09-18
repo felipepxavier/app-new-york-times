@@ -42,7 +42,7 @@ $ cd backend
 Para utilização desta aplicação é necessário a chave de acesso da API do THE NEW YORK TIMES, 
 Após o cadastro no site deles e obtenção da sua API KEY,
 edite o arquivo de nome ".env.example", e altere o valor da variável "NY_TIMES_API_KEY" com o valor da sua API KEY, 
-também neste arquivo, altere(se desejar) a porta onde vamos executar nosso servidor nodejs na variável de nome "PORT".
+também neste arquivo, altere a porta onde vamos executar nosso servidor nodejs na variável de nome "PORT".
 
 Após essas duas alterações renomeie o arquivo ".env.example" para ".env".
 
