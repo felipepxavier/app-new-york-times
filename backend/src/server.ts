@@ -5,7 +5,7 @@ import 'dotenv/config';
 import cors from 'cors';
 
 const SECRET_API = process.env.NY_TIMES_API_KEY;
-const PORT = process.env.PORT || 3333;
+const PORT = 3333;
 
 const app = express();
 
