@@ -1,6 +1,6 @@
 # App de notícias do THE NEW YORK TIMES 
 
-    Este App consomi a [API Top Stories](https://developer.nytimes.com/docs/top-stories-product/1/overview) de duas categorias 'technology' e 'science'.
+    ste App consomi a API Top Stories de duas categorias 'technology' e 'science'.
 
 ## Backend
   - NodeJS
@@ -9,7 +9,6 @@
 ## Frontend
   - ReactJS
   - Typescript
-
 
 ### Escolhas
 
@@ -70,3 +69,7 @@ Depois apenas inicie:
 ```sh
 $ yarn start
 ```
+
+**Referências:**
+Api The New York Times: https://developer.nytimes.com
+Api Top Stories: https://developer.nytimes.com/docs/top-stories-product/1/overview
