@@ -1,6 +1,6 @@
 # App de notícias do THE NEW YORK TIMES 
 
-    ste App consomi a API Top Stories de duas categorias 'technology' e 'science'.
+  Este App consomi a **API Top Stories**, nas categorias 'technology' e 'science'.
 
 ## Backend
   - NodeJS
