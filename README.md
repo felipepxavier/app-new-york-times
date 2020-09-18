@@ -22,7 +22,7 @@
 	Utilizei esta biblioteca porque é uma ótima forma de componentizar nossos estilos e deixar mais limpo o código, além de diversos beneficios de interação com os componentes.
 
 
-- **Typescript** (frontend/Backend)
+- **Typescript** (Frontend/Backend)
 
 	Utilizei o typescript pois além da inteligência (IntelliSense) da IDE, ganhamos mais confiabilidade em seu uso.
 
@@ -71,5 +71,7 @@ $ yarn start
 ```
 
 **Referências:**
+
 Api The New York Times: https://developer.nytimes.com
+
 Api Top Stories: https://developer.nytimes.com/docs/top-stories-product/1/overview
