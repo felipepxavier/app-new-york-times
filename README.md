@@ -12,22 +12,22 @@
 
 ### Escolhas
 
-- **React-window** (Frontend)
+- **React-window** [Frontend]
 
 	Utilizei a biblioteca react-window para renderizar a lista de notícias, pois ela trabalha com o conceito de virtualização, muito utilizada para aumentar o desempenho em listas muito grandes, renderizando somente o que é visível para o usuário e aumentando sua experiência de usuário.
 
 
-- **Styled-components**  (Frontend)
+- **Styled-components**  [Frontend]
 
 	Utilizei esta biblioteca porque é uma ótima forma de componentizar nossos estilos e deixar mais limpo o código, além de diversos beneficios de interação com os componentes.
 
 
-- **Typescript** (Frontend/Backend)
+- **Typescript** [Frontend/Backend]
 
 	Utilizei o typescript pois além da inteligência (IntelliSense) da IDE, ganhamos mais confiabilidade em seu uso.
 
 
-- **Eslint/Prettier/EditorConfig** (Frontend)
+- **Eslint/Prettier/EditorConfig** [Frontend]
 
 	Utilizei essas 3 ferramentas para manter nosso código padronizado.
 
