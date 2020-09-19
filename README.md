@@ -5,7 +5,7 @@
 ## Backend
   - NodeJS
   - Typescript
-  - 
+  
 ## Frontend
   - ReactJS
   - Typescript
