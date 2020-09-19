@@ -12,7 +12,7 @@
 
 ### Escolhas
 
-- **React-window** [Frontend]
+- ```**React-window**``` [Frontend]
 
 	Utilizei a biblioteca react-window para renderizar a lista de notícias, pois ela trabalha com o conceito de virtualização, muito utilizada para aumentar o desempenho em listas muito grandes, renderizando somente o que é visível para o usuário e aumentando sua experiência de usuário.
 
