@@ -1,6 +1,6 @@
 # App de notícias do THE NEW YORK TIMES 
 
-  Este App consomi a **API Top Stories**, nas categorias 'technology' e 'science'.
+  Este App consomi a **API Top Stories**, nas categorias *technology* e *science*.
 
 ## Backend
   - NodeJS
@@ -40,11 +40,11 @@ $ cd backend
 ```
 
 Para utilização desta aplicação é necessário a chave de acesso da API do THE NEW YORK TIMES, 
-Após o cadastro no site deles e obtenção da sua API KEY,
-edite o arquivo de nome ".env.example", e altere o valor da variável "NY_TIMES_API_KEY" com o valor da sua API KEY.
+após o cadastro no site deles e obtenção da sua API KEY,
+edite o arquivo de nome *.env.example*, e altere o valor da variável *NY_TIMES_API_KEY* com o valor da sua API KEY.
 
 
-Após essa alteração renomeie o arquivo ".env.example" para ".env".
+Após essa alteração renomeie o arquivo *.env.example* para *.env*.
 
 Entre na pasta backend e instale todas as dependências do projeto:
 ```sh

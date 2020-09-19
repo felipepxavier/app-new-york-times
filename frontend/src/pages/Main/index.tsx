@@ -9,9 +9,10 @@ import StoryContext from './context';
 interface Story {
   title: string;
   byline: string;
-
-  // abstract: string;
-  // short_url: string;
+  abstract: string;
+  short_url: string;
+  published_date: string;
+  multimedia: string
 }
 
 interface StoryContent {
@@ -19,7 +20,9 @@ interface StoryContent {
   title?: string;
   byline?: string;
   abstract?: string;
-  // short_url: string;
+  short_url?: string;
+  published_date?: string;
+  multimedia?: string
 }
 
 const Main: React.FC = () => {
@@ -33,7 +36,6 @@ const Main: React.FC = () => {
       const loadContent = async () => {
         const response = await api.get('stories');
 
-        console.log(response.data.stories);
         setStories(response.data.stories);
       };
 
